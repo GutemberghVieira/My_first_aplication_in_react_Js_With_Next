@@ -1,0 +1,22 @@
+ 
+
+.Body_Content 
+{
+width:100%;
+display:flex;
+justify-content:space-around;
+align-items:center;
+flex-wrap:wrap;
+margin:15px 0;
+gap:15px;
+height:416px;
+}
+
+
+@media screen and (max-width:1080px)
+{
+.Body_Content
+{
+height:100%;
+}
+}

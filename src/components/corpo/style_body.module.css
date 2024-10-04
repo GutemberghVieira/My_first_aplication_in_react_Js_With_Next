@@ -1,0 +1,35 @@
+
+.Container 
+{
+background:linear-gradient(150deg, #111,#F60100,orangered);
+padding:10px;
+border-radius:8px;
+height:300px;
+display:flex;
+flex-direction:column;
+flex:1 1 200px;
+}
+
+.Container 
+h2 
+{
+font-size:22px;
+color:#fff;
+margin:15px 0 0 0;
+}
+
+.Container 
+p
+{
+color:#fff;
+font-family:sans-serif;
+font-style:"italic";
+font-size:17px;
+font-weight:bold;
+}
+
+.Container h2,
+.Container p 
+{
+margin:10px 0 0 0;
+}
